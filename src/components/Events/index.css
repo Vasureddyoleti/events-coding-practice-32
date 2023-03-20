@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.events-main-container {
+  display: flex;
+}
+.events-item-container {
+  background-color: #3a4b63;
+  height: 120%;
+  padding: 10px;
+  width: 70%;
+}
+
+.events-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.unOrder-list {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
